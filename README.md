@@ -6,13 +6,13 @@ This repository contains three image classification experiments using different 
 
 ## 📁 Repository Structure
 
-├── ConvNeXt_+Swin_Transformer.ipynb
-├── VGG19.ipynb
-├── Custom_CNN_Image_Classification.ipynb
-└── dataset/
-├── class_1/
-├── class_2/
-└── class_3/
+- ConvNeXt_+Swin_Transformer.ipynb <br>
+- VGG19.ipynb <br>
+- Custom_CNN_Image_Classification.ipynb <br>
+- dataset/
+   - class_1/
+   - class_2/
+   - class_3/
 
 
 ---
